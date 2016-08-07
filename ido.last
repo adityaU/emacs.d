@@ -1,0 +1,29 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/adityau/workspace/self/dex/web/" . "controllers/")
+ ("/Users/adityau/workspace/self/dex/" . "web/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/adityau/workspace/self/dex/web/controllers/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "auth_controller.ex"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/adityau/workspace/self/dex/web/controllers/" (22429 49568 0 0) "page_controller.ex" "auth_controller.ex" "../" "./")
+
+ ("/Users/adityau/workspace/self/dex/web/" (22429 50089 0 0) "web.ex" "views/" "router.ex" "models/" "gettext.ex" "controllers/" "channels/" "../" "./")
+
+ ("/Users/adityau/workspace/self/dex/" (22429 43901 0 0) "web/" "test/" "README.md" "priv/" "mix.lock" "mix.exs" "lib/" "deps/" "config/" "_build/" ".gitignore" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

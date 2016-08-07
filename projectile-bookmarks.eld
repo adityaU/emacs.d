@@ -1,0 +1,1 @@
+("~/workspace/self/wcm/" "~/.emacs.d/" "~/workspace/self/success/" "~/workspace/self/dex/" "~/workspace/self/Dexterous/")

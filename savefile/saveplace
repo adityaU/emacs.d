@@ -1,0 +1,58 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/adityau/workspace/self/wcm/mix.exs" . 46)
+ ("/Users/adityau/.emacs.d/savefile/recentf" . 2108)
+ ("/Users/adityau/workspace/self/wcm/web/controllers/page_controller.ex" . 120)
+ ("/Users/adityau/workspace/self/wcm/README.md" . 455)
+ ("/Users/adityau/.emacs.d/elpa/markdown-mode-20160803.1848/markdown-mode-autoloads.el" . 637)
+ ("/Users/adityau/.emacs.d/init.el" . 5500)
+ ("/Users/adityau/workspace/self/success/backend/start-test.sh" . 13)
+ ("/Users/adityau/workspace/self/success/backend/config/initializers/sidekiq.rb" . 246)
+ ("/Users/adityau/workspace/self/success/backend/start.sh" . 74)
+ ("/Users/adityau/workspace/self/success/backend/Dockerfile" . 110)
+ ("/Users/adityau/workspace/self/success/backend/Dockerfile.test" . 110)
+ ("/Users/adityau/.emacs.d/elpa/yaml-mode-20160528.1400/yaml-mode-autoloads.el" . 562)
+ ("/Users/adityau/workspace/self/dex/priv/repo/migrations/20160731102625_create_user.exs" . 189)
+ ("/Users/adityau/workspace/self/dex/priv/repo/migrations/20160731150458_create_project.exs" . 208)
+ ("/Users/adityau/workspace/self/dex/priv/repo/migrations/20160806083402_create_build.exs" . 133)
+ ("/Users/adityau/workspace/self/dex/priv/repo/migrations/20160806085305_create_stage.exs" . 389)
+ ("/Users/adityau/workspace/self/dex/priv/repo/migrations/20160806082709_create_branch.exs" . 178)
+ ("/Users/adityau/workspace/self/dex/web/models/branch.ex" . 127)
+ ("/Users/adityau/workspace/self/dex/web/models/build.ex" . 138)
+ ("/Users/adityau/workspace/self/dex/priv/repo/migrations/20160806085717_create_pipeline.exs" . 234)
+ ("/Users/adityau/workspace/self/dex/web/models/pipeline.ex" . 176)
+ ("/Users/adityau/workspace/self/dex/web/models/project.ex" . 375)
+ ("/Users/adityau/workspace/self/dex/web/models/stage.ex" . 265)
+ ("/Users/adityau/workspace/self/dex/web/controllers/auth_controller.ex" . 206)
+ ("/Users/adityau/.emacs.d/elpa/fiplr-20140723.2345/fiplr-autoloads.el" . 1788)
+ ("/Users/adityau/.emacs.d/elpa/color-theme-sanityinc-tomorrow-20160729.1635/color-theme-sanityinc-tomorrow-autoloads.el" . 1480)
+ ("/Users/adityau/.emacs.d/elpa/neotree-20160802.51/neotree-autoloads.el" . 1231)
+ ("/Users/adityau/.emacs.d/elpa/elixir-yasnippets-20150417.539/elixir-yasnippets-autoloads.el" . 547)
+ ("/Users/adityau/.emacs.d/elpa/yasnippet-20160801.1142/yasnippet-autoloads.el" . 1597)
+ ("/Users/adityau/workspace/self/dex/"
+  (dired-filename . "/Users/adityau/workspace/self/dex/web"))
+ ("/Users/adityau/workspace/self/dex/web/"
+  (dired-filename . "/Users/adityau/workspace/self/dex/web/controllers"))
+ ("/Users/adityau/workspace/self/dex/web/controllers/"
+  (dired-filename . "/Users/adityau/workspace/self/dex/web/controllers/auth_controller.ex"))
+ ("/Users/adityau/workspace/self/dex/mix.exs" . 43)
+ ("/Users/adityau/workspace/self/dex/config/"
+  (dired-filename . "/Users/adityau/workspace/self/dex/config/dev.exs"))
+ ("/Users/adityau/workspace/self/dex/config/dev.exs" . 1059)
+ ("/Users/adityau/"
+  (dired-filename . "/Users/adityau/.emacs.d"))
+ ("/Users/adityau/.emacs.d/modules/"
+  (dired-filename . "/Users/adityau/.emacs.d/modules/.."))
+ ("/Users/adityau/.emacs.d/personal/preload/"
+  (dired-filename . "/Users/adityau/.emacs.d/personal/preload/.."))
+ ("/Users/adityau/.emacs.d/personal/"
+  (dired-filename . "/Users/adityau/.emacs.d/personal/.."))
+ ("/Users/adityau/.emacs.d/themes/"
+  (dired-filename . "/Users/adityau/.emacs.d/themes/.."))
+ ("/Users/adityau/.emacs.d/"
+  (dired-filename . "/Users/adityau/.emacs.d/core"))
+ ("/Users/adityau/.emacs.d/core/"
+  (dired-filename . "/Users/adityau/.emacs.d/core/prelude-osx.el"))
+ ("/Users/adityau/.emacs.d/core/prelude-osx.el" . 2467)
+ ("/Users/adityau/.emacs.d/elpa/elixir-mode-20160718.2245/elixir-mode-autoloads.el" . 1635)
+ ("/Users/adityau/.emacs.d/elpa/vkill-20091203.1022/vkill-autoloads.el" . 218)
+ ("/Users/adityau/.emacs.d/elpa/exec-path-from-shell-20160112.2246/exec-path-from-shell-autoloads.el" . 1251))

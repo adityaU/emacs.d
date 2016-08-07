@@ -1,0 +1,11 @@
+;;; Automatically generated on Wed Aug  3 20:47:52 2016
+;;; Invoked by adityau@Adityas-MacBook-Pro-3.local using 24.5.1
+(setq-default session-file-alist '(("~/workspace/self/dex/web/controllers/auth_controller.ex" 1021 nil 1 nil nil 654 (overwrite-mode)) ("~/.emacs.d/custom.el" 1 nil 1 nil nil 642 (overwrite-mode))))
+(setq-default file-name-history '("/Users/adityau/workspace/self/dex/web/controllers/auth_controller.ex" "~/.emacs.d/custom.el"))
+(setq-default command-history '((find-file "/Users/adityau/workspace/self/dex/web/controllers/auth_controller.ex")))
+(setq-default ido-file-history '("auth_controller.ex"))
+(setq-default occur-collect-regexp-history '("\\1"))
+(setq-default serial-name-history '("/dev/ttys0"))
+(setq-default serial-speed-history '("9600" "1200" "2400" "4800" "14400" "19200" "28800" "38400" "57600" "115200"))
+(setq-default slime-connect-host-history '("127.0.0.1"))
+(setq-default slime-connect-port-history '("4005"))
